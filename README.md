@@ -23,11 +23,21 @@ Each folder contains the configuration files for its corresponding experimental 
 
 The run specifications identify **MOVES 5.0.0**. Before running an experiment, check the file paths and database settings against your local environment, including any `@DIR@` placeholders in the import files.
 
+## Excel input data source
+
+The source data used for the Excel inputs in the TurboMOVES experiments were obtained from **MOVES5 2024 Input Data Tables**, provided by the **New York State Department of Environmental Conservation (NYSDEC)** through New York State Open Data:
+
+[MOVES5 2024 Input Data Tables — dataset information and download](https://data.ny.gov/Energy-Environment/MOVES5-2024-Input-Data-Tables/ybv6-5sxa/about_data)
+
+The source dataset provides MOVES input tables, data dictionaries, and an overview. Use this source alongside the case-specific configurations in this repository. When preparing the Excel inputs, check that workbook paths and worksheet names match the relevant import configuration; Case A's configurations currently reference filenames containing `2023`, while the linked source dataset is labeled `2024`.
+
 ## Data availability
 
 The experimental input files and run configurations shared with the TurboMOVES paper are available in this repository:
 
 **https://github.com/caferavci/uTECH-Turbo-MOVES**
+
+The underlying Excel input data are publicly available from the NYSDEC dataset linked above.
 
 Case A's import configurations reference county-specific `*_2023_MOVES_inputs.xlsx` workbooks that are not included in the current repository. These workbooks are required to execute the associated imports. The two project input workbooks for each of Cases D and E are included in their respective folders.
 
