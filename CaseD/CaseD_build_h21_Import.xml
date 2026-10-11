@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<moves>
+ 
+ 
+ <importer mode="project">
+  
+  
+  <filters>
+   
+   
+   <geographicselections>
+    
+    
+    <geographicselection description="Bronx County" key="36005" type="COUNTY"/>
+    
+   
+   </geographicselections>
+   
+   
+   <timespan>
+    
+    
+    <year key="2027"/>
+    
+    
+    <month id="7"/>
+    
+    
+    <day id="5"/>
+    
+    
+    <beginhour id="21"/>
+    
+    
+    <endhour id="21"/>
+    
+    
+    <aggregateBy key="Hour"/>
+    
+   
+   </timespan>
+   
+   
+   <onroadvehicleselections>
+</onroadvehicleselections>
+   
+   
+   <offroadvehicleselections>
+</offroadvehicleselections>
+   
+   
+   <offroadvehiclesccs>
+</offroadvehiclesccs>
+   
+   
+   <roadtypes>
+</roadtypes>
+   
+   
+   <pollutantprocessassociations>
+</pollutantprocessassociations>
+   
+  
+  </filters>
+  
+  
+  <databaseselection databasename="proj_D_build_h21_in" servername="localhost"/>
+  
+  
+  <link>
+   
+   
+   <description/>
+   
+   
+   <parts>
+    
+    
+    <Link>
+     
+     
+     <filename>@DIR@/36005_2027_MOVES_project_inputs_build.xlsx</filename>
+     
+     
+     <section>Link</section>
+     
+    
+    </Link>
+    
+   
+   </parts>
+   
+  
+  </link>
+  
+  
+  <linksourcetypehour>
+   
+   
+   <description/>
+   
+   
+   <parts>
+    
+    
+    <LinkSourceTypeHour>
+     
+     
+     <filename>@DIR@/36005_2027_MOVES_project_inputs_build.xlsx</filename>
+     
+     
+     <section>LinkSourceTypeHour</section>
+     
+    
+    </LinkSourceTypeHour>
+    
+   
+   </parts>
+   
+  
+  </linksourcetypehour>
+  
+  
+  <driveschedulesecondlink>
+   <description/>
+   <parts>
+    <driveScheduleSecondLink>
+     <filename>@DIR@/36005_2027_MOVES_project_inputs_build.xlsx</filename>
+     <section>driveScheduleSecondLink</section>
+    </driveScheduleSecondLink>
+   </parts>
+  </driveschedulesecondlink>
+  <linkopmodedistribution>
+   <description/>
+   <parts>
+    <opModeDistribution>
+     <filename>@DIR@/36005_2027_MOVES_project_inputs_build.xlsx</filename>
+     <section>opModeDistribution</section>
+    </opModeDistribution>
+   </parts>
+  </linkopmodedistribution>
+  <agedistribution>
+   
+   
+   <description/>
+   
+   
+   <parts>
+    
+    
+    <sourceTypeAgeDistribution>
+     
+     
+     <filename>@DIR@/36005_2027_MOVES_project_inputs_build.xlsx</filename>
+     
+     
+     <section>SourceTypeAgeDistribution</section>
+     
+    
+    </sourceTypeAgeDistribution>
+    
+   
+   </parts>
+   
+  
+  </agedistribution>
+  
+  
+  <fuel>
+   
+   
+   <description/>
+   
+   
+   <parts>
+    
+    
+    <FuelSupply>
+     
+     
+     <filename>@DIR@/36005_2027_MOVES_project_inputs_build.xlsx</filename>
+     
+     
+     <section>fuelSupply</section>
+     
+    
+    </FuelSupply>
+    
+    
+    <FuelFormulation>
+     
+     
+     <filename>@DIR@/36005_2027_MOVES_project_inputs_build.xlsx</filename>
+     
+     
+     <section>fuelFormulation</section>
+     
+    
+    </FuelFormulation>
+    
+    
+    <FuelUsageFraction>
+     
+     
+     <filename>@DIR@/36005_2027_MOVES_project_inputs_build.xlsx</filename>
+     
+     
+     <section>fuelUsageFraction</section>
+     
+    
+    </FuelUsageFraction>
+    
+    
+    <avft>
+     
+     
+     <filename>@DIR@/36005_2027_MOVES_project_inputs_build.xlsx</filename>
+     
+     
+     <section>AVFT</section>
+     
+    
+    </avft>
+    
+   
+   </parts>
+   
+  
+  </fuel>
+  
+  
+  <imcoverage>
+   
+   
+   <description/>
+   
+   
+   <parts>
+    
+    
+    <IMCoverage>
+     
+     
+     <filename>@DIR@/36005_2027_MOVES_project_inputs_build.xlsx</filename>
+     
+     
+     <section>IMCoverage</section>
+     
+    
+    </IMCoverage>
+    
+   
+   </parts>
+   
+  
+  </imcoverage>
+  
+  
+  <zonemonthhour>
+   
+   
+   <description/>
+   
+   
+   <parts>
+    
+    
+    <zoneMonthHour>
+     
+     
+     <filename>@DIR@/36005_2027_MOVES_project_inputs_build.xlsx</filename>
+     
+     
+     <section>met data</section>
+     
+    
+    </zoneMonthHour>
+    
+   
+   </parts>
+   
+  
+  </zonemonthhour>
+  
+  
+  <generic>
+   
+   
+   <description/>
+   
+   
+   <parts>
+    
+    
+    <anytable>
+     
+     
+     <tablename>agecategory</tablename>
+     
+     
+     <filename/>
+     
+    
+    </anytable>
+    
+   
+   </parts>
+   
+  
+  </generic>
+  
+ 
+ </importer>
+ 
+
+</moves>
