@@ -14,6 +14,30 @@ Each folder contains the configuration files for its corresponding experimental 
 | E | [CaseE](CaseE/) | Project emission-rate configurations for Bronx County, with build and no-build scenarios for hours 1–24. Includes run specifications, import configurations, two input workbooks, and a batch manifest. |
 | F | [Case F](Case%20F/) | Default-domain emission-rate configuration covering eight New York counties. Includes a run specification and import configuration. |
 
+## Measured results
+
+Measured wall-clock runtimes for EPA MOVES (Windows), EPA MOVES (Linux), and
+uTECH-Turbo MOVES across all five case studies. Each case folder's own
+`README.md` has the full scope description and per-platform breakdown; each
+also has a `measurement/` subfolder with the raw logs and a
+`compute_results.py` script that recomputes these numbers directly from them.
+
+| Case | EPA MOVES (Windows) | EPA MOVES (Linux) | uTECH-Turbo MOVES | Speedup (Turbo vs. Windows / Linux) |
+|---|---|---|---|---|
+| [A](CaseA/README.md) | 53.25 min | 36.57 min | 7.02 min | 7.6x / 5.2x |
+| [C](Case%20C/README.md) | 91.45 min | 93.55 min | 16.5 min | 5.5x / 5.7x |
+| [D](CaseD/README.md) | 101.12 min | 86.78 min | 4.90 min | 20.6x / 17.7x |
+| [E](CaseE/README.md) | 99.97 min | 79.2 min | 5.10 min | 19.6x / 15.5x |
+| [F](Case%20F/README.md) | 1,402.1 min* | 434.2 min* | 18.60 min** | 75.4x / 23.3x |
+
+\* Case F's full scope (96 county-month combinations) could not be executed
+directly on EPA MOVES Windows/Linux; these are extrapolated from a measured
+21-combination subset.
+
+\** uTECH-Turbo MOVES runs each county as its own independent campaign in
+parallel; 18.60 min is the max across all 8 counties' directly-measured
+campaign times (17.87–18.60 min each), not an extrapolation.
+
 ## File guide
 
 - **`.mrs`** — MOVES run specifications defining the model settings and selected scenarios.

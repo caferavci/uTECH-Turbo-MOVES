@@ -1,0 +1,193 @@
+Starting MOVES Docker container for run e36d46b7-eee4-4cdc-bdc3-5af195adb586
+Service: 975050276175.dkr.ecr.us-east-2.amazonaws.com/utech/moves:latest
+Timestamp: Thu Jul 23 17:24:06 UTC 2026
+latest: Pulling from utech/moves
+d98594ab461f: Pulling fs layer
+f7a1f94758aa: Pulling fs layer
+ac1161797349: Pulling fs layer
+326309a63eeb: Pulling fs layer
+a4ad153f34e0: Pulling fs layer
+7a767fdb420b: Pulling fs layer
+a931d0bcc89b: Pulling fs layer
+fc88a7c887f5: Pulling fs layer
+e361b670a143: Pulling fs layer
+798ef4439df1: Pulling fs layer
+f8dba867179f: Pulling fs layer
+194f5286022f: Pulling fs layer
+ab2d468d2b59: Pulling fs layer
+0996ac0ce539: Pulling fs layer
+aa1965472d04: Pulling fs layer
+6bb1be109215: Pulling fs layer
+41c0c6f900ac: Pulling fs layer
+30cabcc29a1e: Pulling fs layer
+07123484a4c7: Pulling fs layer
+e1a89dea01a6: Pulling fs layer
+d9f32af308dc: Pulling fs layer
+cf4d8dfa8c5e: Pulling fs layer
+d3ea6d245796: Pulling fs layer
+8169e4b1f457: Pulling fs layer
+44299a9a54b7: Pulling fs layer
+bc4dc68184dc: Pulling fs layer
+90d3d5d247a3: Pulling fs layer
+a7b6d250c71c: Pulling fs layer
+a663b259c4cd: Pulling fs layer
+57f0ca14dcae: Pulling fs layer
+843dfef04820: Pulling fs layer
+ea9138559193: Pulling fs layer
+5c027f7ea2b7: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+a5f0f2000402: Pulling fs layer
+f66abfb6cab1: Pulling fs layer
+f843864ba4a2: Pulling fs layer
+7aae4b06d6e8: Pulling fs layer
+ac452f61cfa7: Pulling fs layer
+ac1161797349: Download complete
+cf4d8dfa8c5e: Download complete
+4f4fb700ef54: Download complete
+d98594ab461f: Download complete
+0996ac0ce539: Download complete
+ab2d468d2b59: Download complete
+7a767fdb420b: Download complete
+30cabcc29a1e: Download complete
+f7a1f94758aa: Download complete
+326309a63eeb: Download complete
+fc88a7c887f5: Download complete
+07123484a4c7: Download complete
+41c0c6f900ac: Download complete
+f8dba867179f: Download complete
+a931d0bcc89b: Download complete
+798ef4439df1: Download complete
+a663b259c4cd: Download complete
+ea9138559193: Download complete
+57f0ca14dcae: Download complete
+5c027f7ea2b7: Download complete
+7aae4b06d6e8: Download complete
+f66abfb6cab1: Download complete
+6bb1be109215: Download complete
+ac452f61cfa7: Download complete
+bc4dc68184dc: Download complete
+f843864ba4a2: Download complete
+e361b670a143: Download complete
+8169e4b1f457: Download complete
+44299a9a54b7: Download complete
+d9f32af308dc: Download complete
+e1a89dea01a6: Download complete
+194f5286022f: Download complete
+e1a89dea01a6: Pull complete
+a5f0f2000402: Download complete
+843dfef04820: Download complete
+0996ac0ce539: Pull complete
+d3ea6d245796: Download complete
+d9f32af308dc: Pull complete
+a4ad153f34e0: Download complete
+e361b670a143: Pull complete
+90d3d5d247a3: Download complete
+aa1965472d04: Download complete
+6bb1be109215: Pull complete
+7a767fdb420b: Pull complete
+326309a63eeb: Pull complete
+d3ea6d245796: Pull complete
+a7b6d250c71c: Download complete
+a7b6d250c71c: Pull complete
+aa1965472d04: Pull complete
+a5f0f2000402: Pull complete
+ab2d468d2b59: Pull complete
+ac452f61cfa7: Pull complete
+f843864ba4a2: Pull complete
+f8dba867179f: Pull complete
+a663b259c4cd: Pull complete
+f66abfb6cab1: Pull complete
+843dfef04820: Pull complete
+4f4fb700ef54: Pull complete
+f7a1f94758aa: Pull complete
+194f5286022f: Pull complete
+7aae4b06d6e8: Pull complete
+8169e4b1f457: Pull complete
+5c027f7ea2b7: Pull complete
+90d3d5d247a3: Pull complete
+a4ad153f34e0: Pull complete
+ac1161797349: Pull complete
+cf4d8dfa8c5e: Pull complete
+30cabcc29a1e: Pull complete
+a931d0bcc89b: Pull complete
+798ef4439df1: Pull complete
+44299a9a54b7: Pull complete
+d98594ab461f: Pull complete
+fc88a7c887f5: Pull complete
+07123484a4c7: Pull complete
+41c0c6f900ac: Pull complete
+ea9138559193: Pull complete
+57f0ca14dcae: Pull complete
+bc4dc68184dc: Pull complete
+Digest: sha256:a9f74316469b4d4e1a51f7ccbdf1e2413e78f8d34997ce61202d48bba33319d6
+Status: Downloaded newer image for 975050276175.dkr.ecr.us-east-2.amazonaws.com/utech/moves:latest
+975050276175.dkr.ecr.us-east-2.amazonaws.com/utech/moves:latest
+Launching MOVES container(s)...
+Launching MOVES container for source type 11...
+Launched container for source type 11: 9241b0b089e4ad5970fd2224739b60a751eb29676759ece486a782098cd9dc0c
+Launching MOVES container for source type 21...
+Launched container for source type 21: 432af05a3dcfb5a0b21f8f0b6507ac7fa957217ee1b82d11309f84375020a447
+Launching MOVES container for source type 31...
+Launched container for source type 31: 384cb5ff8363f4c0f4da6a1a8faf3d9ac1313a7e0abe6464f2ad18f6877b5c3a
+Launching MOVES container for source type 32...
+Launched container for source type 32: f2d35834e083a7350fb169e618cbec889020b38f3ae3993d9919f328e36f9fc2
+Launching MOVES container for source type 41...
+Launched container for source type 41: 34e6e8e215d0662abbd4d86198706b2526d41cf13a3fae33fa0e35fcc375051e
+Launching MOVES container for source type 42...
+Launched container for source type 42: b6a5e4197efe7b50d4e0a6dd3dd16b4df9d220fa6317d4b34eaef50d539a5765
+Launching MOVES container for source type 43...
+Launched container for source type 43: cf9da1e3ea1e66399d4acfd9ddad8801c2f2a55faa103e589dcc77130618db3a
+Launching MOVES container for source type 51...
+Launched container for source type 51: 2981ffec6af2f2cdd8f2f638dc9fe3319b98d88652b58e6d0190c8eb405dd918
+Launching MOVES container for source type 52...
+Launched container for source type 52: 4cd71a725a6be1ea9518b924c66aaecf4dac5f7e27a7a6adfffdf92395c151ef
+Launching MOVES container for source type 53...
+Launched container for source type 53: 9e3b96766d68c2fb9dc4b0a79532cc11ac7cfd1aaa31f6e4d4460d55bf1413c7
+Launching MOVES container for source type 54...
+Launched container for source type 54: 94a834498718b5f74ce2672449ae7bc2f66511f93671f86e11e791c68ba68771
+Launching MOVES container for source type 61...
+Launched container for source type 61: 8889e52741c6f2848b34c28dc5459e94ffd9c2899f45fb738d9a19256a74ceec
+Launching MOVES container for source type 62...
+Launched container for source type 62: f2223028d597fecbe7c4eccfd895c2acbfcf86d46d7d6ec9da5b358da7be7efd
+Waiting for current batch to finish...
+Container 9241b0b089e4ad5970fd2224739b60a751eb29676759ece486a782098cd9dc0c finished with exit code 0
+Container 432af05a3dcfb5a0b21f8f0b6507ac7fa957217ee1b82d11309f84375020a447 finished with exit code 0
+Container 384cb5ff8363f4c0f4da6a1a8faf3d9ac1313a7e0abe6464f2ad18f6877b5c3a finished with exit code 0
+Container f2d35834e083a7350fb169e618cbec889020b38f3ae3993d9919f328e36f9fc2 finished with exit code 0
+Container 34e6e8e215d0662abbd4d86198706b2526d41cf13a3fae33fa0e35fcc375051e finished with exit code 0
+Container b6a5e4197efe7b50d4e0a6dd3dd16b4df9d220fa6317d4b34eaef50d539a5765 finished with exit code 0
+Container cf9da1e3ea1e66399d4acfd9ddad8801c2f2a55faa103e589dcc77130618db3a finished with exit code 0
+Container 2981ffec6af2f2cdd8f2f638dc9fe3319b98d88652b58e6d0190c8eb405dd918 finished with exit code 0
+Container 4cd71a725a6be1ea9518b924c66aaecf4dac5f7e27a7a6adfffdf92395c151ef finished with exit code 0
+Container 9e3b96766d68c2fb9dc4b0a79532cc11ac7cfd1aaa31f6e4d4460d55bf1413c7 finished with exit code 0
+Container 94a834498718b5f74ce2672449ae7bc2f66511f93671f86e11e791c68ba68771 finished with exit code 0
+Container 8889e52741c6f2848b34c28dc5459e94ffd9c2899f45fb738d9a19256a74ceec finished with exit code 0
+Container f2223028d597fecbe7c4eccfd895c2acbfcf86d46d7d6ec9da5b358da7be7efd finished with exit code 0
+Container 9241b0b089e4ad5970fd2224739b60a751eb29676759ece486a782098cd9dc0c exited with code 0
+Wrote container logs to /var/log/container-e36d46b7-eee4-4cdc-bdc3-5af195adb586-9241b0b089e4ad5970fd2224739b60a751eb29676759ece486a782098cd9dc0c.log
+Container 432af05a3dcfb5a0b21f8f0b6507ac7fa957217ee1b82d11309f84375020a447 exited with code 0
+Wrote container logs to /var/log/container-e36d46b7-eee4-4cdc-bdc3-5af195adb586-432af05a3dcfb5a0b21f8f0b6507ac7fa957217ee1b82d11309f84375020a447.log
+Container 384cb5ff8363f4c0f4da6a1a8faf3d9ac1313a7e0abe6464f2ad18f6877b5c3a exited with code 0
+Wrote container logs to /var/log/container-e36d46b7-eee4-4cdc-bdc3-5af195adb586-384cb5ff8363f4c0f4da6a1a8faf3d9ac1313a7e0abe6464f2ad18f6877b5c3a.log
+Container f2d35834e083a7350fb169e618cbec889020b38f3ae3993d9919f328e36f9fc2 exited with code 0
+Wrote container logs to /var/log/container-e36d46b7-eee4-4cdc-bdc3-5af195adb586-f2d35834e083a7350fb169e618cbec889020b38f3ae3993d9919f328e36f9fc2.log
+Container 34e6e8e215d0662abbd4d86198706b2526d41cf13a3fae33fa0e35fcc375051e exited with code 0
+Wrote container logs to /var/log/container-e36d46b7-eee4-4cdc-bdc3-5af195adb586-34e6e8e215d0662abbd4d86198706b2526d41cf13a3fae33fa0e35fcc375051e.log
+Container b6a5e4197efe7b50d4e0a6dd3dd16b4df9d220fa6317d4b34eaef50d539a5765 exited with code 0
+Wrote container logs to /var/log/container-e36d46b7-eee4-4cdc-bdc3-5af195adb586-b6a5e4197efe7b50d4e0a6dd3dd16b4df9d220fa6317d4b34eaef50d539a5765.log
+Container cf9da1e3ea1e66399d4acfd9ddad8801c2f2a55faa103e589dcc77130618db3a exited with code 0
+Wrote container logs to /var/log/container-e36d46b7-eee4-4cdc-bdc3-5af195adb586-cf9da1e3ea1e66399d4acfd9ddad8801c2f2a55faa103e589dcc77130618db3a.log
+Container 2981ffec6af2f2cdd8f2f638dc9fe3319b98d88652b58e6d0190c8eb405dd918 exited with code 0
+Wrote container logs to /var/log/container-e36d46b7-eee4-4cdc-bdc3-5af195adb586-2981ffec6af2f2cdd8f2f638dc9fe3319b98d88652b58e6d0190c8eb405dd918.log
+Container 4cd71a725a6be1ea9518b924c66aaecf4dac5f7e27a7a6adfffdf92395c151ef exited with code 0
+Wrote container logs to /var/log/container-e36d46b7-eee4-4cdc-bdc3-5af195adb586-4cd71a725a6be1ea9518b924c66aaecf4dac5f7e27a7a6adfffdf92395c151ef.log
+Container 9e3b96766d68c2fb9dc4b0a79532cc11ac7cfd1aaa31f6e4d4460d55bf1413c7 exited with code 0
+Wrote container logs to /var/log/container-e36d46b7-eee4-4cdc-bdc3-5af195adb586-9e3b96766d68c2fb9dc4b0a79532cc11ac7cfd1aaa31f6e4d4460d55bf1413c7.log
+Container 94a834498718b5f74ce2672449ae7bc2f66511f93671f86e11e791c68ba68771 exited with code 0
+Wrote container logs to /var/log/container-e36d46b7-eee4-4cdc-bdc3-5af195adb586-94a834498718b5f74ce2672449ae7bc2f66511f93671f86e11e791c68ba68771.log
+Container 8889e52741c6f2848b34c28dc5459e94ffd9c2899f45fb738d9a19256a74ceec exited with code 0
+Wrote container logs to /var/log/container-e36d46b7-eee4-4cdc-bdc3-5af195adb586-8889e52741c6f2848b34c28dc5459e94ffd9c2899f45fb738d9a19256a74ceec.log
+Container f2223028d597fecbe7c4eccfd895c2acbfcf86d46d7d6ec9da5b358da7be7efd exited with code 0
+Wrote container logs to /var/log/container-e36d46b7-eee4-4cdc-bdc3-5af195adb586-f2223028d597fecbe7c4eccfd895c2acbfcf86d46d7d6ec9da5b358da7be7efd.log
+All containers finished. Overall exit code: 0
+Uploading debug logs to s3://utech-pipeline/catanalyzer/S1/36005/outputs/run-output/logs/e36d46b7-eee4-4cdc-bdc3-5af195adb586...

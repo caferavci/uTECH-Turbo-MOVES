@@ -10,7 +10,7 @@
   <geographicselection description="New York County" key="36061" type="COUNTY"/>
  </geographicselections>
  <timespan>
-  <year key="2019"/>
+  <year key="2023"/>
   <month id="1"/>
   <month id="7"/>
   <day id="5"/>

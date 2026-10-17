@@ -1,0 +1,27 @@
+============================================================
+Case: CaseE nobuild_h21
+County: 36005   Run ID: a44c811e-a1cc-4b3b-95ab-20de5e79eec2
+Data source: turbo_case_study/CaseE/nobuild_h21/  (wall-clock source: orchestrator_timestamps)
+============================================================
+Wall-clock time:      4.8 min
+Workers:               13
+CPU time (summed):    0.35 vCPU-hr
+Cost (computed):      $0.15   (Orchestrator field was: $1.91)
+Peak RAM:             13.2 GB
+Output DB size:       0.001 GB
+Output zips found:    13 / 13
+------------------------------------------------------------
+Row counts per source type:
+  ST11: {'rateperdistance': 4797}
+  ST21: {'rateperdistance': 12780}
+  ST31: {'rateperdistance': 13005}
+  ST32: {'rateperdistance': 12708}
+  ST41: {'rateperdistance': 7929}
+  ST42: {'rateperdistance': 9387}
+  ST43: {'rateperdistance': 7677}
+  ST51: {'rateperdistance': 7641}
+  ST52: {'rateperdistance': 11943}
+  ST53: {'rateperdistance': 8577}
+  ST54: {'rateperdistance': 9162}
+  ST61: {'rateperdistance': 7425}
+  ST62: {'rateperdistance': 5184}

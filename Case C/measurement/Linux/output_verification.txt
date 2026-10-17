@@ -1,0 +1,8 @@
+Case C Linux (real NVMe-backed MariaDB, i7i.4xlarge local instance store) -- output verification
+
+BUILD SUCCESSFUL, exit_status=0, runspec_outputdb.zip = 3,307,561 bytes.
+
+Single combined 8-county Default/Inventory run (one runspec, one import,
+same as the repo's CaseC_default_inv.mrs / CaseC_default_Import.xml).
+Raw SQL dump is not included in this package to keep size manageable; it
+remains on the EC2 instance at the time of this run.

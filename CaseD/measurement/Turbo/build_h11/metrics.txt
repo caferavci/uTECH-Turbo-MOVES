@@ -1,0 +1,27 @@
+============================================================
+Case: CaseD build_h11
+County: 36005   Run ID: f9ecfd35-cc88-4f29-8a84-87d4075b9399
+Data source: turbo_case_study/CaseD/build_h11/  (wall-clock source: orchestrator_timestamps)
+============================================================
+Wall-clock time:      4.8 min
+Workers:               13
+CPU time (summed):    0.23 vCPU-hr
+Cost (computed):      $0.15   (Orchestrator field was: $1.91)
+Peak RAM:             12.6 GB
+Output DB size:       0.003 GB
+Output zips found:    13 / 13
+------------------------------------------------------------
+Row counts per source type:
+  ST11: {'movesoutput': 4797, 'baserateoutput': 4797}
+  ST21: {'movesoutput': 12780, 'baserateoutput': 12780}
+  ST31: {'movesoutput': 13005, 'baserateoutput': 13005}
+  ST32: {'movesoutput': 12708, 'baserateoutput': 12708}
+  ST41: {'movesoutput': 7929, 'baserateoutput': 7929}
+  ST42: {'movesoutput': 9387, 'baserateoutput': 9387}
+  ST43: {'movesoutput': 7677, 'baserateoutput': 7677}
+  ST51: {'movesoutput': 7641, 'baserateoutput': 7641}
+  ST52: {'movesoutput': 11943, 'baserateoutput': 11943}
+  ST53: {'movesoutput': 8577, 'baserateoutput': 8577}
+  ST54: {'movesoutput': 9162, 'baserateoutput': 9162}
+  ST61: {'movesoutput': 7425, 'baserateoutput': 7425}
+  ST62: {'movesoutput': 5184, 'baserateoutput': 5184}
