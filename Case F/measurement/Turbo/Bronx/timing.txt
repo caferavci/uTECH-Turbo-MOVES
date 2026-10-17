@@ -1,0 +1,14 @@
+source_type=11 elapsed_sec=265
+source_type=21 elapsed_sec=555
+source_type=31 elapsed_sec=887
+source_type=32 elapsed_sec=901
+source_type=41 elapsed_sec=771
+source_type=42 elapsed_sec=741
+source_type=43 elapsed_sec=911
+source_type=51 elapsed_sec=495
+source_type=52 elapsed_sec=1091
+source_type=53 elapsed_sec=1054
+source_type=54 elapsed_sec=1025
+source_type=61 elapsed_sec=459
+source_type=62 elapsed_sec=395
+campaign_max_sec=1091

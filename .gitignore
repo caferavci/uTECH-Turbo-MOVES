@@ -1,0 +1,13 @@
+# Uncompressed SQL dumps (keep .zip versions only)
+**/runspec_outputdb.sql
+**/runspec_*_outputdb.sql
+
+# Per-run raw output database zips for bulk cases (D/E: 48 runs each)
+# Summaries (emissions_summary.tsv) are kept; full raw databases
+# available in S3 reference: s3://utech-pipeline/turbo-moves-reference/
+CaseD/measurement/Linux/*/runspec_outputdb.zip
+CaseE/measurement/Linux/*/runspec_outputdb.zip
+
+# Representative run (build_h01) raw data is un-ignored and kept in repo
+!CaseD/measurement/Linux/build_h01/runspec_outputdb.zip
+!CaseE/measurement/Linux/build_h01/runspec_outputdb.zip
