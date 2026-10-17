@@ -1,0 +1,17 @@
+Case A Linux (real NVMe-backed MariaDB, i7i.4xlarge local instance store) -- output verification
+
+| County      | BUILD SUCCESSFUL | runspec_outputdb.zip size |
+|-------------|-------------------|---------------------------|
+| Bronx       | yes               | 13,351,253 bytes          |
+| Kings       | yes               | 13,158,062 bytes          |
+| Nassau      | yes               | 14,262,241 bytes          |
+| NewYork     | yes               | 13,143,607 bytes          |
+| Queens      | yes               | 13,444,530 bytes          |
+| Richmond    | yes               | 13,495,101 bytes          |
+| Suffolk     | yes               | 15,596,482 bytes          |
+| Westchester | yes               | 13,909,811 bytes          |
+
+All 8 counties: exit 0, BUILD SUCCESSFUL, consistent non-truncated output
+sizes (13.1-15.6MB each) -- not the truncation failure signature of a
+stunted/empty output. Raw SQL dumps are not included in this package to keep
+size manageable; they remain on the EC2 instance at the time of this run.

@@ -1,0 +1,33 @@
+============================================================
+Case: CaseC
+County: 36005   Run ID: e36d46b7-eee4-4cdc-bdc3-5af195adb586
+Data source: turbo_case_study/CaseC/  (wall-clock source: orchestrator_timestamps)
+============================================================
+Wall-clock time:      16.5 min
+Workers:               13
+CPU time (summed):    5.47 vCPU-hr
+Cost (computed):      $0.51   (Orchestrator field was: $1.91)
+Peak RAM:             UNAVAILABLE for this exact run (pre-dates RAM sampler patch,
+                      or not sampled). A separate dedicated profiling run
+                      (same RunSpec, same 13-container split architecture,
+                      campaign_max_sec=711 / 11.85 min) measured real
+                      peak RAM increase of 34.73 GB -- see
+                      ../profiling/resource_monitor.csv and
+                      ../profiling/timing.txt.
+Output DB size:       0.034 GB
+Output zips found:    13 / 13
+------------------------------------------------------------
+Row counts per source type:
+  ST11: {'movesoutput': 27648, 'baserateoutput': 248832}
+  ST21: {'movesoutput': 27648, 'baserateoutput': 248832}
+  ST31: {'movesoutput': 27648, 'baserateoutput': 248832}
+  ST32: {'movesoutput': 27648, 'baserateoutput': 248832}
+  ST41: {'movesoutput': 27648, 'baserateoutput': 248832}
+  ST42: {'movesoutput': 27648, 'baserateoutput': 248832}
+  ST43: {'movesoutput': 27648, 'baserateoutput': 248832}
+  ST51: {'movesoutput': 27648, 'baserateoutput': 248832}
+  ST52: {'movesoutput': 27648, 'baserateoutput': 248832}
+  ST53: {'movesoutput': 27648, 'baserateoutput': 248832}
+  ST54: {'movesoutput': 27648, 'baserateoutput': 248832}
+  ST61: {'movesoutput': 27648, 'baserateoutput': 248832}
+  ST62: {'movesoutput': 27648, 'baserateoutput': 308736}
