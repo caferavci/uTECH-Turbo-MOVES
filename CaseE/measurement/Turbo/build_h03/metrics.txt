@@ -1,0 +1,27 @@
+============================================================
+Case: CaseE build_h03
+County: 36005   Run ID: 09e188fb-ffb8-456d-90e7-bf2396825eaa
+Data source: turbo_case_study/CaseE/build_h03/  (wall-clock source: orchestrator_timestamps)
+============================================================
+Wall-clock time:      5.1 min
+Workers:               13
+CPU time (summed):    0.28 vCPU-hr
+Cost (computed):      $0.16   (Orchestrator field was: $1.91)
+Peak RAM:             13.5 GB
+Output DB size:       0.001 GB
+Output zips found:    13 / 13
+------------------------------------------------------------
+Row counts per source type:
+  ST11: {'rateperdistance': 4797}
+  ST21: {'rateperdistance': 12780}
+  ST31: {'rateperdistance': 13005}
+  ST32: {'rateperdistance': 12708}
+  ST41: {'rateperdistance': 7929}
+  ST42: {'rateperdistance': 9387}
+  ST43: {'rateperdistance': 7677}
+  ST51: {'rateperdistance': 7641}
+  ST52: {'rateperdistance': 11943}
+  ST53: {'rateperdistance': 8577}
+  ST54: {'rateperdistance': 9162}
+  ST61: {'rateperdistance': 7425}
+  ST62: {'rateperdistance': 5184}

@@ -1,0 +1,3 @@
+RESULT [CaseF_96cell]: elapsed_seconds=54412.9314291 moveserror_rows=0 movesoutput_rows=0 rateperdistance_rows=1347840
+BUILD SUCCESSFUL
+Total time: 906 minutes 52 seconds

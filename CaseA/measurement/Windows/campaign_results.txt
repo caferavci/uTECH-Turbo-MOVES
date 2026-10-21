@@ -1,0 +1,10 @@
+﻿=== Case A, 3-worker campaign, started 2026-10-12T19:25:00.1660828-07:00 ===
+RESULT [Bronx]: elapsed_seconds=366.2192815 moveserror_rows=0 movesoutput_rows=534816 timestamp=2026-10-12T19:31:38.6823410-07:00
+RESULT [Kings]: elapsed_seconds=389.0841891 moveserror_rows=0 movesoutput_rows=534816 timestamp=2026-10-12T19:38:22.3840236-07:00
+RESULT [Nassau]: elapsed_seconds=388.4464994 moveserror_rows=0 movesoutput_rows=568512 timestamp=2026-10-12T19:45:05.3002370-07:00
+RESULT [NewYork]: elapsed_seconds=389.2116735 moveserror_rows=0 movesoutput_rows=534816 timestamp=2026-10-12T19:51:51.4051821-07:00
+RESULT [Queens]: elapsed_seconds=390.8315441 moveserror_rows=0 movesoutput_rows=534816 timestamp=2026-10-12T19:58:39.0285002-07:00
+RESULT [Richmond]: elapsed_seconds=436.2243391 moveserror_rows=0 movesoutput_rows=534816 timestamp=2026-10-12T20:06:09.6259975-07:00
+RESULT [Suffolk]: elapsed_seconds=444.0483667 moveserror_rows=0 movesoutput_rows=568512 timestamp=2026-10-12T20:13:50.1038242-07:00
+RESULT [Westchester]: elapsed_seconds=390.6550028 moveserror_rows=0 movesoutput_rows=554544 timestamp=2026-10-12T20:20:35.4314062-07:00
+CAMPAIGN_TOTAL_SECONDS=3314.8419441
